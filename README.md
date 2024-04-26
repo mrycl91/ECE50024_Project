@@ -4,7 +4,7 @@ This repository is our project of ECE50024 Machine Learning. Our project is abou
 
 ## Instructions
 - `Checkpoint3.ipynb` is the code of checkpoint3 (reimplementation on a toy problem).
-- `final_checkpoint.ipynb` is our final code.
+- `final_checkpoint.ipynb` is the code of our real-world problem.
 - `train_metrics.zip` contains the training data while our model is being trained.
 - `validation_run_metrics.zip` contains the graphs and the results of the original, noised, and denoised images.
 
